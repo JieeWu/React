@@ -1,0 +1,19 @@
+.active {
+  color: green;
+  font-weight: bold;
+}
+.completed {
+  color: gray;
+  text-decoration: line-through;
+  font-style: italic;
+}
+.normal-btn {
+  background-color: #b88d8d;
+  color: black;
+  border:1px solid black;
+}
+.active-btn {
+    background-color: yellow;
+    color: black;
+    border:1px solid black;
+}
